@@ -1,0 +1,1 @@
+{"X": ["Education_Level", "Marital_Status", "Income_Category"], "y": "Gender", "pred_type": "Classification"}
